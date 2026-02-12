@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Issami Umeoka!
 
-<!--
-**IssamiU/IssamiU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Desenvolvimento de Software Multiplataforma, atuando como desenvolvedor **fullstack** com foco em aplicações web modernas.
 
-Here are some ideas to get you started:
+- 📍 São José dos Campos – SP  
+- 🎓 Desenvolvimento de Software Multiplataforma – FATEC Prof. Jessen Vidal (conclusão em 08/2027)  
+- 🎓 Técnico em Informática – Senac São José dos Campos (concluído em 12/2023)  
+- ✉️ Fale comigo: [Issami.umeoka@gmail.com](mailto:Issami.umeoka@gmail.com)  
+- 🌐 Veja meu [<u>Portfolio</u>](https://issami.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css,react,nodejs,express,flask,spring,mysql,mongodb,redis,cassandra,maven,git,aws,docker,tailwind,bootstrap,figma)](https://skillicons.dev)
